@@ -1,2 +1,2 @@
-# JH-Course11111111
+# JH-Course
 HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
